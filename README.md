@@ -62,21 +62,31 @@ I'm a passionate .NET Full-Stack Developer with expertise in building scalable w
 
 ### GitHub Stats 📊
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=riyatiwari7805&theme=dracula&row=1&column=6" alt="trophy">
-</p>
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=riyatiwari7805&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=riyatiwari7805&layout=compact&langs_count=8&theme=algolia"/>
+  <img src="https://komarev.com/ghpvc/?username=Riyatiwari&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riyatiwari7805&theme=algolia" alt="GitHub Streak">
-</p>
+<div align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=Riyatiwari&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="Riya's GitHub Stats">
+</div>
 
-### Activity Graph 📈
-[![Riya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=riyatiwari7805&theme=react-dark)](https://github.com/riyatiwari7805/github-readme-activity-graph)
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Riyatiwari&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+</div>
+
+### Quick Overview 📈
+
+- 🔭 Total Contributions: 18+
+- 🌱 Public Repositories: 6
+- 👯 Joined GitHub: 4 years ago
+- 💼 Currently at: Technometrics Solutions Private Limited
+
+### Recent Activity ⚡
+
+- 🚀 Working on POS System Development
+- 💻 Contributing to Airline Reservation System
+- 📱 Developing Real-time Chat Application
+- ☁️ Exploring Google Cloud Technologies
 
 ### Let's Connect! 🤝
 
