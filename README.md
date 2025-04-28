@@ -62,8 +62,21 @@ I'm a passionate .NET Full-Stack Developer with expertise in building scalable w
 
 ### GitHub Stats 📊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riyatiwari7805&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riyatiwari7805&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=riyatiwari7805&theme=dracula&row=1&column=6" alt="trophy">
+</p>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=riyatiwari7805&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=riyatiwari7805&layout=compact&langs_count=8&theme=algolia"/>
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riyatiwari7805&theme=algolia" alt="GitHub Streak">
+</p>
+
+### Activity Graph 📈
+[![Riya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=riyatiwari7805&theme=react-dark)](https://github.com/riyatiwari7805/github-readme-activity-graph)
 
 ### Let's Connect! 🤝
 
