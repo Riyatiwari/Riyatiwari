@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riya-tiwari-69bbb51b5)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riyatiwari7805@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-url.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://riya-tiwari-portfolio.vercel.app/)
 
 ### About Me 👨‍💻
 
@@ -94,7 +94,7 @@ I'm always interested in collaborating on exciting projects and discussing new o
 
 - 💼 [LinkedIn](https://linkedin.com/in/riya-tiwari-69bbb51b5)
 - 📧 [Email](mailto:riyatiwari7805@gmail.com)
-- 🌐 [Portfolio](https://your-portfolio-url.com)
+- 🌐 [Portfolio]([https://riya-tiwari-portfolio.vercel.app/](https://riya-tiwari-portfolio.vercel.app/))
 
 ---
 ⭐️ From [Riya Tiwari](https://github.com/riyatiwari7805) 
