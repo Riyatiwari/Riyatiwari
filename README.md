@@ -94,7 +94,7 @@ I'm always interested in collaborating on exciting projects and discussing new o
 
 - 💼 [LinkedIn](https://linkedin.com/in/riya-tiwari-69bbb51b5)
 - 📧 [Email](mailto:riyatiwari7805@gmail.com)
-- 🌐 [Portfolio]([https://riya-tiwari-portfolio.vercel.app/](https://riya-tiwari-portfolio.vercel.app/))
+- 🌐 [Portfolio](https://riya-tiwari-portfolio.vercel.app/)
 
 ---
 ⭐️ From [Riya Tiwari](https://github.com/riyatiwari7805) 
